@@ -1,0 +1,179 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.brd{
+    border-radius: 20px;
+}
+
+.gre{
+    background-color: rgb(124, 196, 124);
+}
+
+.sans{
+    font-family: sans-serif;
+}
+
+.size20{
+    font-size: 20px;
+}
+
+.size40{
+    font-size: 40px;
+}
+
+.whi{
+    color: white;
+}
+
+.m-0{
+    margin: 0;
+}
+
+.m-20{
+    margin: 20px;
+}
+
+.p-0{
+    padding: 0;
+}
+
+.p-10{
+    padding: 10px;
+}
+.p-30{
+    padding: 30px;
+}
+.shad{
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.333);
+}
+
+.img1{
+    background-image: url(http://mobimg.b-cdn.net/v3/fetch/49/49cc2b85b487e0bab0c431a69283ae80.jpeg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: auto;
+}
+.img2{
+    background-image: url(https://zhilfond-realt.ru/wp-content/uploads/3/9/c/39ca956ffe6cfb5e29cdfe02996b7aca.jpeg);
+    background-repeat: no-repeat;
+    height: 35%;
+    width: 35%;
+}
+
+.img3{
+    background-image: url(https://haven.ca/wp-content/uploads/2018/12/Behind-the-scenes_act-natural-blog.PNG);
+    background-repeat: no-repeat;
+    height: 50%;
+    width: 50%;
+}
+
+.top{
+    margin-top: 200px;
+}
+.left{
+    margin-left: 230px;
+}
+
+.wid100{
+    width: 800px;
+}
+
+.mgaul{
+    margin: -10px auto auto auto;
+}
+
+.cent{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.pad{
+    padding: 10px;
+}
+
+/* .grid{
+    display: grid;
+    grid-template: repeat(1, 1fr) / repeat(4, 1fr)
+    gap: 10px
+} */
+
+.rel{
+    position: relative;
+}
+
+.inb{
+    display: inline-block;
+}
+
+.hei{
+    height: 200px;
+}
+
+.wid{
+    width: 200px;
+}
+
+.bg{
+    background-color: brown;
+}
+
+.hei6{
+    height: 600px;
+}
+.wid550{
+    width: 300px;
+}
+.wid800{
+    width: 900px;
+}
+.wid30{
+    width: 250px;
+}
+.left30{
+    padding-left: 80px;
+}
+.hei220{
+    height: 260px;
+}
+
+.mleft{
+    margin-left: 50px;
+}
+.bggr{
+    background-color: gainsboro;
+}
+.mleft50{
+    margin-left: 240px;
+}
+
+.wid250{
+    width: 300px;
+}
+
+.hei200{
+    height: 200px;
+}
+
+.hei44{
+    height: 227px;
+}
+
+.bord{
+    border-style: solid;
+    border-color: darkcyan;
+}
+
+.mleft30{
+    margin-left: 107px;
+}
+
+.top30{
+    margin-top: 30px;
+}
+
+.m-25{
+    margin: 5px;
+}
